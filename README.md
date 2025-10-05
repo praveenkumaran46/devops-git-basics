@@ -1,3 +1,3 @@
 I am an EEE Graduate
-With 4 yrs of Experience in Infra Support
+with 4 yrs of experience in Infra Support
 Currently pursuing Devops in EMC
